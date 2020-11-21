@@ -9,3 +9,20 @@
   height: 380px;
   background-color: plum;
 }
+
+.name {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.percent {
+  text-align: center;
+  font-size: 14px;
+}
+
+.description {
+  margin-top: 10px;
+  padding: 10px;
+}
