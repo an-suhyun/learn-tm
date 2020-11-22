@@ -1,12 +1,12 @@
 .container {
-  width: 400px;
+  width: 500px;
   padding: 10px;
   background-color: rgb(145, 189, 255);
 }
 
 .cam {
-  width: 380px;
-  height: 380px;
+  width: 480px;
+  height: 480px;
   background-color: rgb(255, 190, 222);
 }
 
