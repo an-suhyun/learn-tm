@@ -1,13 +1,13 @@
 .container {
   width: 480px;
-  padding: 10px;
-  background-color: rgb(145, 189, 255);
+  height: 480px;
+  background-color: tomato;
 }
 
-.cam {
+.camera {
   width: 480px;
   height: 480px;
-  background-color: rgb(255, 190, 222);
+  background-color: greenyellow;
 }
 
 .name {
